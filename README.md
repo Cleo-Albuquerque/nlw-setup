@@ -1,5 +1,7 @@
 # nlw-setup-habits
+
 nlw-setup @Rocketseat
+
 <h1 align="center"> Habits </h1>
 
 <p align="center">
@@ -23,7 +25,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
-## ?? Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -32,13 +34,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## ?? Projeto
+## 💻 Projeto
 
 O Habits é um app para ajudar rastrear os hábitos.
 
-## ?? Layout
+- [Visite o projeto online](https://cleo-albuquerque.github.io/nlw-setup)
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qzHd4J6O7Cd0NaY5Yr21JI/Habits-(e)-(Community)?node-id=6%3A910&t=7wWnTWwuUDzKfYsn-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/qzHd4J6O7Cd0NaY5Yr21JI/Habits-(e)-(Community)?node-id=6%3A910&t=7wWnTWwuUDzKfYsn-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -46,4 +50,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ? by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
